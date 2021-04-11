@@ -8,10 +8,10 @@ Hi, I'm Cutest, I'm passionate about coding and want to be a self-taught develop
 ![Twitter Follow](https://img.shields.io/twitter/follow/cut35t?color=%231DA1F2&logo=Twitter&style=for-the-badge)
 
 
-🔭 I’m currently working on EXPANDING JAVA KNOWLEDGE
-🌱 I’m currently learning JAVA
-🥅 Goals: To master basic JAVA and be fluent with it.
-⚡ Fun fact: I love to draw and game.
+🔭 I’m currently working on EXPANDING JAVA KNOWLEDGE <br/>
+🌱 I’m currently learning JAVA <br/>
+🥅 Goals: To master basic JAVA and be fluent with it. <br/>
+⚡ Fun fact: I love to draw and game. <br/>
 
 
 ### Spotify Now Playing 🎧
