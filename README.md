@@ -22,7 +22,7 @@ Hi, I'm Cutest, I'm passionate about coding and want to be a self-taught develop
 - ⚡ Fun fact: I love to draw and game. 
 
 ## 🌐 Socials/Contacts
-😎 Here are some of my social media handles/contacts I'm open for commissions! <br/>  
+😎 Here are some of my social media handles/contacts I'm open for commissions! (Click Icons) <br/>  
 [<img src="https://raw.githubusercontent.com/Cut3st/Cut3st/master/socials/web.svg" height="40em" align="center" alt="My Website" title="My Website"/>](https://cutest.pro)
 [<img src="https://raw.githubusercontent.com/Cut3st/Cut3st/master/socials/Gmail.svg" height="40em" align="center" alt="My Email" title="My Email"/>](https://mail.google.com/mail/?view=cm&fs=1&to=cut35st@gmail.com)
 [<img src="https://raw.githubusercontent.com/Cut3st/Cut3st/master/socials/twitter.svg" height="40em" align="center" alt="Follow Cutest on Twitter" title="Follow Cutest on Twitter"/>](https://twitter.com/Cut35t)
