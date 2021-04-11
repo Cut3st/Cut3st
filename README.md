@@ -13,6 +13,11 @@ Hi, I'm Cutest, I'm passionate about coding and want to be a self-taught develop
 - 🥅 Goals: To master basic JAVA and be fluent with it. 
 - ⚡ Fun fact: I love to draw and game. 
 
+### How to Reach Me 
+
+
+[<img src="https://raw.githubusercontent.com/Cut3st/Cut3st/master/socials/twitter.svg" height="40em" align="center" alt="Follow Cutest on Twitter" title="Follow Cutest on Twitter"/>](https://twitter.com/Cut35t)
+
 
 ### Spotify Now Playing 🎧
 
