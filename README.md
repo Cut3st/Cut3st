@@ -1,10 +1,12 @@
 ### Hey There 👋
 
-🔭 I’m currently working on CODING KNOWLEDGE
-🌱 I’m currently learning JAVA
-🤔 I’m looking for help with JAVA
-📫 How to reach me: ...
-⚡ Fun fact: I make graphics on my free time
+Hi, I'm Cutest, I'm passionate about coding and want to be a self-taught developer.
+
+![Website](https://img.shields.io/website?down_message=cutest.pro&logo=Celery&style=for-the-badge&up_message=cutest.pro&url=https%3A%2F%2Fcutest.pro)
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning JAVA
+
 
 ### Spotify Now Playing 🎧
 
