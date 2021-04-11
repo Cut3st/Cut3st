@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Hey There 👋
 
 Hi, I'm Cutest, I'm passionate about coding and want to be a self-taught developer.
@@ -16,3 +18,5 @@ Hi, I'm Cutest, I'm passionate about coding and want to be a self-taught develop
 ### Spotify Now Playing 🎧
 
 [![Spotify](https://novatorem-three-pi.vercel.app/api/spotify)](https://open.spotify.com/user/214rsd7kfrixpvufxeyapxs3y)
+
+</div>
