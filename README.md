@@ -4,7 +4,6 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/cut35t?color=%231DA1F2&logo=Twitter&style=for-the-badge)
 ![Discord](https://img.shields.io/discord/830777546369925140?color=%237289DA&label=Private&logo=Discord&logoColor=%237289DA&style=for-the-badge)
 ![Twitch Status](https://img.shields.io/twitch/status/cut3st?color=%239146FF&label=Cut3st&logo=Twitch&logoColor=%239146FF&style=for-the-badge)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkepwDdiz0ykOqzXfG3Dh2g?color=%23FF0000&label=Subscribers&logo=youtube&logoColor=%23FF0000&style=for-the-badge)
 
 ## 📖 About Me
 
