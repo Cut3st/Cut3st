@@ -14,6 +14,7 @@ Hi, I'm Cutest, I'm passionate about coding and want to be a self-taught develop
 ### How to Reach Me 
 
 [<img src="https://raw.githubusercontent.com/Cut3st/Cut3st/master/socials/earth.svg" height="40em" align="center" alt="My Website" title="My Website"/>](https://cutest.pro)
+[<img src="https://raw.githubusercontent.com/Cut3st/Cut3st/master/socials/Gmail.svg" height="40em" align="center" alt="My Email" title="My Email"/>](https://mail.google.com/mail/?view=cm&fs=1&to=cut35st@gmail.com)
 [<img src="https://raw.githubusercontent.com/Cut3st/Cut3st/master/socials/twitter.svg" height="40em" align="center" alt="Follow Cutest on Twitter" title="Follow Cutest on Twitter"/>](https://twitter.com/Cut35t)
 
 
