@@ -1,13 +1,16 @@
+[<img src="https://raw.githubusercontent.com/Cut3st/Cut3st/master/socials/14.jpg" alt="Banner" title="Banner"/>](https://cutest.pro)
+
 ![Website](https://img.shields.io/website?down_message=cutest.pro&logo=Google%20Chrome&logoColor=%23ffffff&style=for-the-badge&up_message=cutest.pro&url=https%3A%2F%2Fcutest.pro)
 ![Twitter Follow](https://img.shields.io/twitter/follow/cut35t?color=%231DA1F2&logo=Twitter&style=for-the-badge)
+![Discord](https://img.shields.io/discord/830777546369925140?color=%237289DA&label=Discord&logo=Discord&logoColor=%23ffffff&style=for-the-badge)
 
 ## 📖 About Me
 
 Hi, I'm Cutest, I'm passionate about coding and want to be a self-taught developer.
 - 🎓 Currently an Mechanical Engineering Student
-- I am 18 as of 2021
-- I'm an old sould and i love Classic Jazz/Funky Jazz
-- I have my own portfolio of graphics, visit my website below
+- 📆 I am 18 as of 2021
+- 🎵 I'm an old soul, absolutely LOVE Classic Jazz/Funky Jazz
+- 🖼️ I have my own portfolio of graphics
 
 ## 🧐 What I'm Up To
 - 🔭 I’m currently working on EXPANDING JAVA KNOWLEDGE 
@@ -18,7 +21,7 @@ Hi, I'm Cutest, I'm passionate about coding and want to be a self-taught develop
 - ⚡ Fun fact: I love to draw and game. 
 
 ## 🌐 Socials/Contacts
-😎 Here are some of my social media handles/contacts I'm open for commissions!
+😎 Here are some of my social media handles/contacts I'm open for commissions! <br/>  
 [<img src="https://raw.githubusercontent.com/Cut3st/Cut3st/master/socials/web.svg" height="40em" align="center" alt="My Website" title="My Website"/>](https://cutest.pro)
 [<img src="https://raw.githubusercontent.com/Cut3st/Cut3st/master/socials/Gmail.svg" height="40em" align="center" alt="My Email" title="My Email"/>](https://mail.google.com/mail/?view=cm&fs=1&to=cut35st@gmail.com)
 [<img src="https://raw.githubusercontent.com/Cut3st/Cut3st/master/socials/twitter.svg" height="40em" align="center" alt="Follow Cutest on Twitter" title="Follow Cutest on Twitter"/>](https://twitter.com/Cut35t)
