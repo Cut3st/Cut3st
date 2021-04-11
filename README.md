@@ -26,7 +26,8 @@ Hi, I'm Cutest, I'm passionate about coding and want to be a self-taught develop
 ![Website](https://img.shields.io/website?color=%2300ED00&down_color=%23FA4B32&down_message=cutest.pro&logo=Google%20Chrome&logoColor=%2300ED00&style=for-the-badge&up_color=%2300ED00&up_message=cutest.pro&url=https%3A%2F%2Fcutest.pro)
 ![Twitter Follow](https://img.shields.io/twitter/follow/cut35t?color=%231DA1F2&logo=Twitter&style=for-the-badge)
 ![Discord](https://img.shields.io/discord/830777546369925140?color=%237289DA&label=Private&logo=Discord&logoColor=%237289DA&style=for-the-badge)
-![Twitch Status](https://img.shields.io/twitch/status/cut3st?color=%239146FF&label=Cut3st&logo=Twitch&logoColor=%239146FF&style=for-the-badge)
+![Twitch Status](https://img.shields.io/twitch/status/cut3st?color=%239146FF&label=Twitch.tv&logo=Twitch&logoColor=%239146FF&style=for-the-badge)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkepwDdiz0ykOqzXfG3Dh2g?color=%23FF0000&label=Subscribers&logo=youtube&logoColor=%23FF0000&style=for-the-badge)
 
 
 
