@@ -1,4 +1,4 @@
-### Hey There 👋
+## Hey There 👋
 
 Hi, I'm Cutest, I'm passionate about coding and want to be a self-taught developer.
 
@@ -6,8 +6,10 @@ Hi, I'm Cutest, I'm passionate about coding and want to be a self-taught develop
 
 <br />
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on EXPANDING JAVA KNOWLEDGE
 - 🌱 I’m currently learning JAVA
+- 🥅 Goals: To master basic JAVA and be fluent with it.
+- ⚡ Fun fact: I love to draw and game.
 
 
 ### Spotify Now Playing 🎧
