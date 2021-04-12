@@ -35,3 +35,6 @@ Hi, I'm Cutest, I'm passionate about coding and want to be a self-taught develop
 
 [![Spotify](https://novatorem-three-pi.vercel.app/api/spotify)](https://open.spotify.com/user/214rsd7kfrixpvufxeyapxs3y)
 
+
+## 📊 GitHub Stats
+![Cut3st's GitHub stats](https://github-readme-stats-eight-beryl.vercel.app/api?username=Cut3st&show_icons=true&theme=radical)
