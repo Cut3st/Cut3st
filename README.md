@@ -30,6 +30,8 @@ Hi, I'm Cutest, I'm passionate about coding and want to be a self-taught develop
 [<img src="https://raw.githubusercontent.com/Cut3st/Cut3st/master/socials/twitch.png" height="40em" align="center" alt="My Twitch" title="My Twitch"/>](https://twitch.tv/cut3st)  
 
 
+
+
 ## 🎧 Spotify Now Playing
 🎵 Here you can see some of the music i listen to on a daily basis <br/>
 [![Spotify](https://novatorem-three-pi.vercel.app/api/spotify)](https://open.spotify.com/user/214rsd7kfrixpvufxeyapxs3y)
