@@ -32,11 +32,11 @@ Hi, I'm Cutest, I'm passionate about coding and want to be a self-taught develop
 
 
 ## 🎧 Spotify Now Playing
-
+🎵 Here you can see some of the music i listen to on a daily basis <br/>
 [![Spotify](https://novatorem-three-pi.vercel.app/api/spotify)](https://open.spotify.com/user/214rsd7kfrixpvufxeyapxs3y)
 
 
 ## 📊 GitHub Stats
 
-📈 Here are some of my bad stats, hopefully in a few months it'll grow <br/>  
+📈 Here are some of my bad stats, hopefully in a few months it'll grow <br/>
 <a href="https://www.cutest.pro/"><img height="107px" align="center" src="https://github-readme-stats-eight-beryl.vercel.app/api?username=Cut3st&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="177px" align="center" width="445" src="https://github-readme-stats-eight-beryl.vercel.app/api/top-langs/?username=Cut3st&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
