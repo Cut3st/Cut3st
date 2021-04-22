@@ -10,7 +10,7 @@
 Hi, I'm Cutest, I'm passionate about coding and want to be a self-taught developer.
 - 🎓 Currently an Mechanical Engineering Student
 - 📆 I am 18 as of 2021
-- 🎵 I'm an old soul, absolutely LOVE Classic Jazz/Funky Jazz
+- 🎵 I love rock/heavy rock music but I'm also an old soul, absolutely LOVE Classic Jazz/Funky Jazz
 - 🖼️ I have my own portfolio of graphics
 
 ## 🧐 What I'm Up To
