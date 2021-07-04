@@ -29,8 +29,8 @@ Hi, I'm Cutest, I'm passionate about coding and want to be a self-taught develop
 [<img src="https://raw.githubusercontent.com/Cut3st/Cut3st/master/socials/discord.svg" height="40em" align="center" alt="My Discord Server" title="My Discord Server"/>](https://discord.gg/ggAvD9twsE)
 [<img src="https://raw.githubusercontent.com/Cut3st/Cut3st/master/socials/twitch.png" height="40em" align="center" alt="My Twitch" title="My Twitch"/>](https://twitch.tv/cut3st)  
 
-<p align="center">
-    <img style="text-align: center" src="https://discord.c99.nl/widget/theme-4/711906521298239562.png">
+<p align="left">
+    <img style="text-align: left" src="https://discord.c99.nl/widget/theme-4/711906521298239562.png">
 </p>
 
 
