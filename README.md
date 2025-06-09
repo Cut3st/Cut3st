@@ -8,17 +8,17 @@
 ## 📖 About Me
 
 Hi, I'm Cutest, I'm passionate about coding and want to be a self-taught developer.
-- 🎓 Currently an Mechanical Engineering Student
-- 📆 I am 18 as of 2021
+- 🎓 Was an Mechanical Engineering Student
+- 📖 Currently Studying Computer Science
 - 🎵 I love rock/heavy rock music but I'm also an old soul, absolutely LOVE Classic Jazz/Funky Jazz
 - 🖼️ I have my own portfolio of graphics
 
 ## 🧐 What I'm Up To
-- 🔭 I’m currently working on EXPANDING JAVA KNOWLEDGE 
-- 🌱 I’m currently learning JAVA 
+- 🔭 I’m currently working on COMPUTER SCIENCE DEGREE
+- 🌱 I’m currently learning PYTHON
 - 🥅 Goals: 
-  - To master basic JAVA and be fluent with it. 
-  - Hopefully take on a coding degree in the future
+  - To master basic PYTHON and be fluent with it. 
+  - Get my computer science degree
 - ⚡ Fun fact: I love to draw and game. 
 
 ## 🌐 Socials/Contacts
