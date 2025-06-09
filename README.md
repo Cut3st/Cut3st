@@ -7,17 +7,15 @@
 
 ## 📖 About Me
 
-Hi, I'm Cutest, I'm passionate about coding and want to be a self-taught developer.
+Hi, I'm Danny, I'm passionate about coding, was wanting to be a self-taught coder back 2021 but oh wells it's 2025.
 - 🎓 Was an Mechanical Engineering Student
 - 📖 Currently Studying Computer Science
-- 🎵 I love rock/heavy rock music but I'm also an old soul, absolutely LOVE Classic Jazz/Funky Jazz
-- 🖼️ I have my own portfolio of graphics
+- 🎵 I love rock/heavy rock music but I'm also an old soul, lovee Classic Jazz/Funky Jazz
 
 ## 🧐 What I'm Up To
 - 🔭 I’m currently working on COMPUTER SCIENCE DEGREE
 - 🌱 I’m currently learning PYTHON
 - 🥅 Goals: 
-  - To master basic PYTHON and be fluent with it. 
   - Get my computer science degree
 - ⚡ Fun fact: I love to draw and game. 
 
