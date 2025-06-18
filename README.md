@@ -8,16 +8,15 @@
 ## 📖 About Me
 
 Hi, I'm Danny, I'm passionate about coding, was wanting to be a self-taught coder back 2021 but oh wells it's 2025.
-- 🎓 Was an Mechanical Engineering Student
+- 🎓 Was an Mechanical Engineering Student (Diploma with Merit)
 - 📖 Currently Studying Computer Science
 - 🎵 I love rock/heavy rock music but I'm also an old soul, lovee Classic Jazz/Funky Jazz
 
 ## 🧐 What I'm Up To
-- 🔭 I’m currently working on COMPUTER SCIENCE DEGREE
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning PYTHON...
+- 🔭 I’m currently working on small projects to work oon my python (1st Year)
 - 🥅 Goals: 
   - Get my computer science degree
-- ⚡ Fun fact: I love to draw and game. 
 
 ## 🌐 Socials/Contacts
 😎 Here are some of my social media handles/contacts I'm open for commissions! (Click Icons) <br/>  
