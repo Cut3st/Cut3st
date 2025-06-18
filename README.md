@@ -16,7 +16,7 @@ Hi, I'm Danny, I'm passionate about coding, was wanting to be a self-taught code
 - 🌱 I’m currently learning PYTHON...
 - 🔭 I’m currently working on small projects to work oon my python (1st Year)
 - 🥅 Goals: 
-  - Get my computer science degree
+  - Get my computer science degree (I'll lyk in 2029)
 
 ## 🌐 Socials/Contacts
 😎 Here are some of my social media handles/contacts I'm open for commissions! (Click Icons) <br/>  
