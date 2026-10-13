@@ -9,11 +9,11 @@
 
 Hi, I'm Danny, I'm passionate about coding, was wanting to be a self-taught coder back 2021 but oh wells it's 2025.
 - 🎓 Was an Mechanical Engineering Student (Diploma with Merit)
-- 📖 Currently Studying Computer Science (Year 1)
+- 📖 Currently Studying Computer Science (Year 2)
 - 🎵 I love rock/heavy rock music but I'm also an old soul, lovee Classic Jazz/Funky Jazz
 
 ## 🧐 What I'm Up To
-- 🌱 I’m currently learning OOP, DSA, C & C++ 🤯...
+- 🌱 I’m currently learning every mf thing about CS
 - 🔭 I’m currently working on my university assignments and joining hackathons!
 - 🥅 Goals: 
   - Get my computer science degree (I'll lyk in 2029)
